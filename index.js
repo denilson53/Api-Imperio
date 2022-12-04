@@ -538,6 +538,6 @@ app.put("/fiados/:id",(req,res) =>{
 
 
 
-app.listen(8686,()=>{
+app.listen(80,()=>{
     console.log("Api Rodando")
 })
